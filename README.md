@@ -52,7 +52,7 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri Arman (VectorsMoe).
 ```bash
 • pkg install git
 • git clone https://github.com/man-x199/PudidiXBOT3
